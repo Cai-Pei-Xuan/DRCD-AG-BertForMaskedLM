@@ -15,7 +15,7 @@
 # [CLS]C1C2[sep]Q1Q2[SEP]A1A2[MASK]
 ```
 - train.py : BertForMaskedLM的訓練
-- predict.py : 輸入context和question來預測答案
+- predict.py : 輸入context和question來生成答案
 - requestment.txt : 紀錄需要安裝的環境
 ## 使用說明
 ### train的順序
